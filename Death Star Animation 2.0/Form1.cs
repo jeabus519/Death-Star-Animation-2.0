@@ -1,4 +1,8 @@
-﻿using System;
+﻿/// created by : Michael Peterman
+/// date       : November 29, 2016
+/// description: A basic animation of the trench run demonstration from star wars IV
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
